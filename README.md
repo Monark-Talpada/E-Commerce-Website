@@ -22,7 +22,7 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shahraj3105/Dropshipping-Ecommmerce-Website.git
+   git clone https://github.com/Monark-Talpada/E-commmerce Website.git
    ```
 
 2. Change into the project directory:
